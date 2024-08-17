@@ -8,5 +8,4 @@ const PlusSvg = ({ className = "" }) => {
     </svg>
   );
 };
-
 export default PlusSvg;
